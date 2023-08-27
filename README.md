@@ -1,7 +1,10 @@
 # Lisper-
 
 <p>Secrets Project (Lisper)</p>
-<h1>Objective: Created a web app to dynamically showcase secrets with their associated usernames fetched from an external API.</h1>
+<h2>Objective: </h2>
+<ul>
+  <li>Created a web app to dynamically showcase secrets with their associated usernames fetched from an external API.</li>
+</ul>
 <h2>Responsibilities:</h2>
 <ul>
   <li>Backend: Set up an Express.js server, integrated "secrets-api.appbrewery.com" using Axios, and handled potential API issues gracefully.</li>
